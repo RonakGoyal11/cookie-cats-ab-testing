@@ -1,0 +1,2 @@
+metric,control_mean_rounds,treatment_mean_rounds,mean_difference,control_median_rounds,treatment_median_rounds,median_difference,mann_whitney_u_statistic,p_value,rank_biserial_effect_size,statistically_significant,practical_effect,extreme_records_excluded,zero_round_players_included
+Total Game Rounds,51.342110561757536,51.29877552814966,-0.04333503360787461,17.0,16.0,-1.0,1009027049.5,0.05089155279145376,-0.007504360331303639,False,Negligible,1,True

@@ -1,0 +1,3 @@
+version,observed_players,expected_players,observed_percentage,expected_percentage,srm_p_value,srm_status
+gate_30,44700,45094.5,49.56258523766757,50.0,0.008607987810836262,SRM warning under assumed 50/50 allocation
+gate_40,45489,45094.5,50.43741476233243,50.0,0.008607987810836262,SRM warning under assumed 50/50 allocation
