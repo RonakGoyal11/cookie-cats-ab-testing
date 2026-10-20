@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment variables and passwords
+.env
+
+# VS Code local settings
+.vscode/
+
+# Raw dataset should not be uploaded
+data/raw/*
+!data/raw/.gitkeep
+
+# Temporary files
+*.log
+*.tmp
+.env.*
+!.env.example

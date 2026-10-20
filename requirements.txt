@@ -1,0 +1,16 @@
+
+# Core data analysis
+pandas>=2.0,<3.0
+numpy>=1.24,<3.0
+scipy>=1.10,<2.0
+statsmodels>=0.14,<1.0
+
+# PostgreSQL connectivity
+SQLAlchemy>=2.0,<3.0
+psycopg2-binary>=2.9,<3.0
+python-dotenv>=1.0,<2.0
+
+# Notebook and charts
+jupyter>=1.0,<2.0
+ipykernel>=6.0,<8.0
+matplotlib>=3.7,<4.0
